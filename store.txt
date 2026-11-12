@@ -1,0 +1,31 @@
+<h1>Welcome to My Shop</h1>
+<p>Connect with me on social media:</p>
+
+<!-- YOUR SOCIAL MEDIA LINKS -->
+<div class="social-links">
+    <a href="https://facebook.com/yourusername" target="_blank">Facebook</a>
+    <a href="https://t.me/yourusername" target="_blank">Telegram</a>
+    <a href="https://tiktok.com/@yourusername" target="_blank">TikTok</a>
+</div>
+
+<hr style="max-width: 600px; border: 0; border-top: 1px solid #ccc; margin: 30px auto;">
+
+<h2>Available Stock</h2>
+
+<div class="product-container">
+    <!-- PRODUCT 1 -->
+    <div class="product">
+        <h3>Product Name 1</h3>
+        <p class="price">$10.00</p>
+        <p>Short description of your product features or size.</p>
+        <a href="https://t.me/yourusername" class="buy-btn" target="_blank">Order via Telegram</a>
+    </div>
+
+    <!-- PRODUCT 2 -->
+    <div class="product">
+        <h3>Product Name 2</h3>
+        <p class="price">$25.00</p>
+        <p>Short description of your product features or size.</p>
+        <a href="https://t.me/yourusername" class="buy-btn" target="_blank">Order via Telegram</a>
+    </div>
+</div>
